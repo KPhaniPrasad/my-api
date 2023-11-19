@@ -10,7 +10,7 @@ app.use(express.json());
 
 app.use("/home", (req,res) => {
     res.json({
-        msg:" Welcome to DevOps Intern - testing"
+        msg:" Hi, Welcome to Abhyaz"
     })
 })
 
